@@ -33,7 +33,7 @@ Simulation Link: Circuit design Mighty Habbi-Juttuli - Tinkercad
 
 Microcontroller: ESP32 
 
-Firmware Language: C++ (Arduino IDE) 
+Firmware Language: C++ (Arduino IDE), Python
 
 Sensors: MPU6050 (Gyroscope/Tilt), PIR Motion Sensors, Ultrasonic Sensors 
 
