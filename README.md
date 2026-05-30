@@ -8,7 +8,7 @@ This project features an ESP32-based autonomous radar surveillance rover designe
 
 ### Individual Contribution: Abdul Azeem (24I-2013)
 In this collaborative project, my primary focus was on ensuring the operational reliability and environmental stability of the rover through advanced logic implementation in C++ (Arduino).
-
+ 
 ### Key Features Implemented
 
 #### 1. Tilt and Uneven Surface Handling (Feature 7)
