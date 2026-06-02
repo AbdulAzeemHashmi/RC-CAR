@@ -1,5 +1,5 @@
 # RC-CAR 
-Implementation of Tilt Handling and Robust Fault Management for an Advanced Radar Surveillance System using ESP32, C++, and Python.
+Implementation of Tilt Handling and Robust Fault Management for an Advanced Radar Surveillance System using ESP32, C++, and Python.   
  
 ## Advanced Radar Surveillance System: Reliability and Fault Management Layer
 
