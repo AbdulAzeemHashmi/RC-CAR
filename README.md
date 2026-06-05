@@ -1,7 +1,7 @@
 # RC-CAR 
 Implementation of Tilt Handling and Robust Fault Management for an Advanced Radar Surveillance System using ESP32, C++, and Python.
  
-## Advanced Radar Surveillance System: Reliability and Fault Management Layer   
+## Advanced Radar Surveillance System: Reliability and Fault Management Layer
 
 ### Project Overview
 This project features an ESP32-based autonomous radar surveillance rover designed for fixed-route monitoring in environments like warehouses and restricted corridors. The system integrates multi-sensor fusion (Ultrasonic, IR, LDR, and Gyroscope) to provide real-time environmental mapping via a Python-based dashboard.
