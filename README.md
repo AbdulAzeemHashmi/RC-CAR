@@ -17,7 +17,7 @@ In this collaborative project, my primary focus was on ensuring the operational 
 
 **System Safety Lock:** When a tilt is detected (`systemTilted`), the rover enters a "Locked" state, and the sensor-scanning servo is automatically centered to 90 degrees to prevent hardware damage.
 
-**Alert Feedback:** Implemented a high-priority alert system where the LED blinks at 200ms intervals and the buzzer emits a 1500Hz tone during instability.   
+**Alert Feedback:** Implemented a high-priority alert system where the LED blinks at 200ms intervals and the buzzer emits a 1500Hz tone during instability.
 
 #### 2. Robust Fault Management (Feature 8)
 
