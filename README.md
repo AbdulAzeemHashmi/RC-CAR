@@ -13,7 +13,7 @@ This project features an ESP32-based autonomous radar surveillance rover designe
 ### Physical Rover Hardware
 ![RC-CAR Rover Hardware](https://raw.githubusercontent.com/AbdulAzeemHashmi/RC-CAR/main/Screenshot%202026-06-08%20145451.png)
 
-> Top-down view of the assembled ESP32-based rover showing the microcontroller, motor driver, ultrasonic sensors, wiring, and 4-wheel chassis.
+> Top-down view of the assembled ESP32-based rover showing the microcontroller, motor driver, ultrasonic sensors, wiring, and 4-wheel chassis.    
 
 ### Radar Sensor Simulation Dashboard
 ![Radar Sensor Simulation](https://raw.githubusercontent.com/AbdulAzeemHashmi/RC-CAR/main/Screenshot%202026-06-08%20145510.png)
