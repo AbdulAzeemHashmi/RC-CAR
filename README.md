@@ -1,8 +1,6 @@
 # RC-CAR
 Implementation of Tilt Handling and Robust Fault Management for an Advanced Radar Surveillance System using ESP32, C++, and Python.
 
----
-
 ## Advanced Radar Surveillance System: Reliability and Fault Management Layer
 
 ### Project Overview
@@ -13,12 +11,12 @@ This project features an ESP32-based autonomous radar surveillance rover designe
 ## Screenshots
 
 ### Physical Rover Hardware
-![RC-CAR Rover Hardware](Screenshot_2026-06-08_145451.png)
+![RC-CAR Rover Hardware](https://raw.githubusercontent.com/AbdulAzeemHashmi/RC-CAR/main/Screenshot%202026-06-08%20145451.png)
 
 > Top-down view of the assembled ESP32-based rover showing the microcontroller, motor driver, ultrasonic sensors, wiring, and 4-wheel chassis.
 
 ### Radar Sensor Simulation Dashboard
-![Radar Sensor Simulation](Screenshot_2026-06-08_145510.png)
+![Radar Sensor Simulation](https://raw.githubusercontent.com/AbdulAzeemHashmi/RC-CAR/main/Screenshot%202026-06-08%20145510.png)
 
 > Python-based real-time radar dashboard displaying live sensor simulation output from the rover's scanning mechanism.
 
@@ -26,8 +24,6 @@ This project features an ESP32-based autonomous radar surveillance rover designe
 
 ### Individual Contribution: Abdul Azeem (24I-2013)
 In this collaborative project, my primary focus was on ensuring the operational reliability and environmental stability of the rover through advanced logic implementation in C++ (Arduino).
-
----
 
 ### Key Features Implemented
 
@@ -47,14 +43,10 @@ In this collaborative project, my primary focus was on ensuring the operational 
 
 **Error Indicators:** Developed the `faultIndicator()` function to provide distinct audio-visual feedback when hardware malfunctions are detected.
 
----
-
 ### Simulation
 The hardware design and logic verification were performed on Tinkercad.
 
 Simulation Link: [Circuit design Mighty Habbi-Juttuli on Tinkercad](#)
-
----
 
 ### Technical Stack
 
