@@ -18,7 +18,7 @@ This project features an ESP32-based autonomous radar surveillance rover designe
 ### Radar Sensor Simulation Dashboard
 ![Radar Sensor Simulation](https://raw.githubusercontent.com/AbdulAzeemHashmi/RC-CAR/main/Screenshot%202026-06-08%20145510.png)
 
-> Python-based real-time radar dashboard displaying live sensor simulation output from the rover's scanning mechanism. 
+> Python-based real-time radar dashboard displaying live sensor simulation output from the rover's scanning mechanism.
 
 ---
 
